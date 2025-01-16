@@ -6,12 +6,12 @@ import { ColaboradorModule } from './colaborador/colaborador.module';
 @Module({
   imports: [
     TypeOrmModule.forRoot({
-      type:"mysql",
-      host:"localhost",
+      type: 'mysql',
+      host: 'localhost',
       port: 3306,
-      username: "root",
-      password:"root",
-      database: "db_rh_g1",
+      username: 'root',
+      password: 'root',
+      database: 'db_rh_g1',
       entities:[Colaborador],
       synchronize: true,
       logging: true,
