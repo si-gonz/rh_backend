@@ -11,7 +11,7 @@
 
 ## 1. Descrição
 
-É um sistema de RH feito em TypeScript com SQL Server. Ele gerencia dados de colaboradores, como nome, e-mail, cargo, salário e foto, ajudando a organizar e acessar informações facilmente.
+É um sistema de RH feito em TypeScript com SQL Server. Ele gerencia dados de colaboradores, como nome, e-mail, cargo, salário e data admissão, ajudando a organizar e acessar informações facilmente.
 
 
 ------
